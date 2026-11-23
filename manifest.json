@@ -1,15 +1,15 @@
 {
   "name": "CP2020 GM Statblocks",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "manifest_version": 1,
   "author": "GM Tools",
-  "description": "Статблоки Cyberpunk 2020 внутри фишек для Мастера: автоподсчёт ран, штрафов, МТЕЛ, БЕГ, броня, патроны и дайсроллер.",
+  "description": "Статблоки Cyberpunk 2020 внутри фишек для Мастера: адаптивная сетка, перетаскивание разделов, автоподсчёт ран, дистанций и дайсроллер.",
   "icon": "/cp2020-obr/icon.svg",
   "action": {
     "title": "CP2020 Статблоки",
     "icon": "/cp2020-obr/icon.svg",
     "popover": "/cp2020-obr/index.html",
-    "height": 720,
+    "height": 740,
     "width": 480
   }
 }
